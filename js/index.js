@@ -28,6 +28,8 @@ const start = document.querySelector('.start');
 const again = document.querySelector('.again');
 const room = document.querySelector('.room');
 
+var teste;
+
 const pad = val => val > 9 ? val : "0" + val;
 
 //4*6 card group;
